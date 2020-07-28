@@ -15,7 +15,10 @@ Once the channels are ready you should also have a Tv guide for the programs ,I 
 Link to the playstore for the app if you have an android tv device :
 https://play.google.com/store/apps/details?id=com.newshub.android.tv
 
-https://github.com/IPTVtuner/Free-news-IPTV/tree/master/Screenshots
+#Screenshots
+
+https://github.com/IPTVtuner/Free-news-IPTV/raw/master/Screenshots/Live%20Channels_20200728_114525.png
+
 
 
 
