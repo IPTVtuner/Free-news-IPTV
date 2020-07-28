@@ -18,6 +18,10 @@ https://play.google.com/store/apps/details?id=com.newshub.android.tv
 
 
 ![Screenshots](https://github.com/IPTVtuner/Free-news-IPTV/raw/master/Screenshots/Live%20Channels_20200728_114525.png)
+![Screenshots](https://github.com/IPTVtuner/Free-news-IPTV/raw/master/Screenshots/Live%20Channels_20200728_114601.png)
+![Screenshots](https://github.com/IPTVtuner/Free-news-IPTV/raw/master/Screenshots/Live%20Channels_20200728_114619.png)
+![Screenshots](https://github.com/IPTVtuner/Free-news-IPTV/raw/master/Screenshots/Live%20Channels_20200728_114723.png)
+
 
 
 
